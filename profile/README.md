@@ -5,7 +5,7 @@
   
 </div>
 
-# Welcome to the [Team 4272](https://team4272.com/)'s GitHub
+# Welcome to [Team 4272](https://team4272.com/)'s GitHub
 
 <!-- Auto updating comp list -->
 ### Our Competitions this year:
