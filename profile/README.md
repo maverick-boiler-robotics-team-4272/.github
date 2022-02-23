@@ -5,7 +5,7 @@
   
 </div>
 
-# Welcome to the [Team 4272](https://www.thebluealliance.com/team/4272)'s GitHub
+# Welcome to the [Team 4272](https://team4272.com/)'s GitHub
 
 <!-- Auto updating comp list -->
 ### Our Competitions this year:
