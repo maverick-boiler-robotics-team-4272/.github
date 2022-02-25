@@ -16,6 +16,4 @@
 
 <!-- List old robot code below -->
 ## Archive
-[2021 Robot code](https://github.com/maverick-boiler-robotics-team-4272/2021Robot)<br>
-[2020 Robot swerve code](https://github.com/maverick-boiler-robotics-team-4272/2020_swerve)<br>
 [2020 Robot code](https://github.com/maverick-boiler-robotics-team-4272/2020Robot)<br>
